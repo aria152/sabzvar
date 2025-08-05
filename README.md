@@ -87,3 +87,37 @@
   </script>
 </body>
 </html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>پس‌زمینه قدیمی</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Tahoma', sans-serif;
+      background: url('https://www.transparenttextures.com/patterns/old-wall.png');
+      background-color: #f5e6cc;
+      background-size: cover;
+      color: #3e3e3e;
+      direction: rtl;
+    }
+
+    .overlay {
+      background-color: rgba(255, 255, 255, 0.7);
+      backdrop-filter: blur(2px);
+      padding: 2rem;
+      margin: 2rem;
+      border-radius: 15px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    }
+  </style>
+</head>
+<body>
+  <div class="overlay">
+    <h1>خوش آمدید!</h1>
+    <p>این یک طراحی با سبک قدیمی برای وب‌سایت شماست.</p>
+  </div>
+</body>
+</html>
